@@ -102,15 +102,18 @@
             font-size: 1.1em;
             padding: 10px 20px;
         }
+        #servicos{
+            background: url('colhedeira.jpg') no-repeat center center/cover;
+        }
 
 
         /* Seção Principal (Hero) */
         #hero {
             /* Coloque aqui a URL de uma imagem de um trator/colheitadeira New Holland no campo */
-            background: url('caminho/para/imagem-trator.jpg') no-repeat center center/cover;
-            background-color: rgba(0, 0, 0, 0.678); 
+            background: url('colhedeira_trator.jpg') no-repeat center center/cover;
+            background-color: rgba(18, 17, 17, 0.598); 
             background-blend-mode: overlay;
-            padding: 60px 0;
+            padding: 30px 0;
             color: white;
             min-height: 70vh; 
         }
